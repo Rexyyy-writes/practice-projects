@@ -2,8 +2,6 @@
 
 A simple command-line number guessing game built with Python. 
 
-https://roadmap.sh/projects/number-guessing-game
-
 ## Features 
 - Selectable difficulty levels (Easy, Medium, Hard)
 - Feedback on whether your guess is too high or too low
@@ -14,6 +12,8 @@ https://roadmap.sh/projects/number-guessing-game
 1. Open your terminal in this directory.
 2. Run the game using Python 3:
 
+more information here:
+https://roadmap.sh/projects/number-guessing-game
+
 ```bash
 python3 number_guessing_game.py
-
