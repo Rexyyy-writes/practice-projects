@@ -2,7 +2,7 @@
 
 A simple command-line number guessing game built with Python. 
 
-Project link: https://roadmap.sh/projects/number-guessing-game
+Project page: https://roadmap.sh/projects/number-guessing-game
 
 ## Features 
 - Selectable difficulty levels (Easy, Medium, Hard)
