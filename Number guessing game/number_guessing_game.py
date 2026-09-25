@@ -30,7 +30,7 @@ print(f"You have {chances} chances to guess the correct number. Let's start!\n")
 # The loop runs as long as the player has remaining chances
 while chances > 0:
     # 1. Ask for a guess inside the loop and convert it to an integer
-    guess = int(input("Enter your guess: "))
+    guess = int(input("Enter your guess(A number between 1 and 100): "))
     
     # 2. Check the guess against the secret_number
     if guess == secret_number:
